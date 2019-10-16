@@ -5,7 +5,7 @@ Hey people , this is CodeAayu , Aayush Ahuja , member of Cyber Labs , Cyber Soci
 This is my first smart project in Game theory.
 
 It is basically a smart Tic-Tac-Toe game , written in CPP14 , just compile and run it in any instance
-that has g++ or c++ compiler installed. You just have to input row and column of your choice and this 
+that has g++ compiler installed. You just have to input row and column of your choice and this 
 will automatically select its choice , you can't overwrite the game's choice.
 
 Any suggestion or improvement is heartly welcome.
